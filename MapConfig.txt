@@ -1,0 +1,7 @@
+PlotID,PlotType,X0,X1,DX,Xtype,Y0,Y1,DY,Ytype,DataList,Labels,Grid,ColorPlanes
+Mars,Map,180.,360.,30.,lin,-90,90,30,lin,2018MarsMaster-Bare.png,True,True,Grey,
+Jupiter,Map,180.,180.,30.,lin,-90,90,30,lin,2014-Hill-Jupiter-Composite-Bare-VideoRGB.jpg,True,True,Grey,
+Jupiter-NEB-Grey,Map,180.,360.,30.,lin,5,25,5,lin,2014-Hill-Jupiter-Composite-Bare-VideoRGB.jpg,0,False,Grey,
+Jupiter-NEB-RGB,Map,180.,180.,30.,lin,5,25,5,lin,2014-Hill-Jupiter-Composite-Bare-VideoRGB.jpg,0,False,RGB,
+Jupiter-NEB-RED,Map,180.,180.,30.,lin,5,25,5,lin,2014-Hill-Jupiter-Composite-Bare-VideoRGB.jpg,0,False,RED,
+Jupiter-2013-RGB,Map,180.,360.,30.,lin,-90,90,30,lin,2013-Hill-Jupiter-Composite-Bare.jpg,True,True,RGB,
